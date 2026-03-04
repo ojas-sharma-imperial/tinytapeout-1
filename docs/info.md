@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Four input pins, which have two xor gates, outputting two values.
 
 ## How to test
 
-Explain how to use your project
+Apply inputs to inputs 3 & 4, and 6 & 7, looking at the XORed values at outputs 6 & 7 respectively :)
 
 ## External hardware
 
